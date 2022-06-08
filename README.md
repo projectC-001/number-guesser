@@ -1,4 +1,5 @@
 # number-guesser
 
-"Today's Update" 
-June 7, 2022
+This project will start tomorrow.
+
+It is going to be the best number guessing game the universe has ever seen. 
