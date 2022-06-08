@@ -2,8 +2,10 @@
 
 This project will start tomorrow.
 
-It is going to be the best number guessing game the universe has ever seen. 
+## What I learned today:
+1. Creating a fork
+2. Creating a branch
+3. Commiting changes
+4. Creating Pull Reguest 
 
-Mind it!
-
-SK Here
+SK
