@@ -1,8 +1,7 @@
 # number-guesser
 
-This project will start tomorrow.
-
 ## What I learned today:
+
  - :white_check_mark: 06/07/2022
 1. Creating a fork
 2. Creating a branch
