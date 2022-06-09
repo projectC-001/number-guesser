@@ -25,14 +25,16 @@ namespace numberGuesser{
             
             // Checking Higher or Lower and Returning a Message
             int trial = 0; // Counter for total timees 
-            while(guess != answer && trial < 11){
+            while(guess != answer && trial < 9){
                 if(answer > guess){
                     Console.WriteLine("Guess a GREATER number");
+                    Console.WriteLine("You have {0} chances remaining.", 9-trial);
                     Console.Write("New Guess :: ");
                     guess = Convert.ToInt32(Console.ReadLine());
                 }
                 else if(answer < guess){
                     Console.WriteLine("Guess a SMALLER number");
+                    Console.WriteLine("You have {0} chances remaining.", 9-trial);
                     Console.Write("New Guess :: ");
                     guess = Convert.ToInt32(Console.ReadLine());
                 }
@@ -41,10 +43,16 @@ namespace numberGuesser{
 
             // Printing Win or Lose Message!
             if(guess == answer){
+                Console.WriteLine("");
+                Console.WriteLine("RIGHT GUESS");
                 Console.WriteLine("YOU WIN!");
+                Console.WriteLine("");
             }
             else {
-                Console.WriteLine("You LOSE!");
+                Console.WriteLine("");
+                Console.WriteLine("OUT OF CHANCES");
+                Console.WriteLine("YOU LOSE!");
+                Console.WriteLine("");
             }
         }
     }
