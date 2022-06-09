@@ -1,5 +1,14 @@
 # number-guesser
 
+## How to Play
+
+1. Guess a number between 1 to 100.
+2. The program will tell you if the number is greater or smaller.
+3. Enter new guess. 
+
+You will have 10 chances to guess it right.
+
+
 ## What I learned today:
 
  - :white_check_mark: 06/07/2022
@@ -20,5 +29,6 @@
 
 ## What issues I faced:
 
+None
 
 ### Additional Notes:
