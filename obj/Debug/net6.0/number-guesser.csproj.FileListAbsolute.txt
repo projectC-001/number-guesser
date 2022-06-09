@@ -1,0 +1,15 @@
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/bin/Debug/net6.0/number-guesser
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/bin/Debug/net6.0/number-guesser.deps.json
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/bin/Debug/net6.0/number-guesser.runtimeconfig.json
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/bin/Debug/net6.0/number-guesser.dll
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/bin/Debug/net6.0/number-guesser.pdb
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/number-guesser.csproj.AssemblyReference.cache
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/number-guesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/number-guesser.AssemblyInfoInputs.cache
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/number-guesser.AssemblyInfo.cs
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/number-guesser.csproj.CoreCompileInputs.cache
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/number-guesser.dll
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/refint/number-guesser.dll
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/number-guesser.pdb
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/number-guesser.genruntimeconfig.cache
+/Users/summitkhatiwada/Documents/tech/dotnet/first-four-projects/number-guesser/obj/Debug/net6.0/ref/number-guesser.dll
