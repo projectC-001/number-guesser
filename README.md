@@ -8,14 +8,6 @@
 
 You will have 10 chances to guess it right.
 
-### Installation & Setup:
- Version: Provide app version/ dotnet version
- [Please provide project setup tools and download links]
-
-### Run:
-`dotnet run`
-
-
 ### What I learned today:
 
  - :white_check_mark: 06/07/2022
@@ -40,9 +32,3 @@ None
 
 ### Additional Notes:
 
-### Evaluation:
-- Great job! 
-- Score: 10/10
-- Please provide project setup details and run commands above.
-- Also provide functions/algorithms you implemented under additional notes.
-- Screenshots of 1 loss and 1 win (under How to play section) would be even better.
