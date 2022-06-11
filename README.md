@@ -44,7 +44,10 @@ Go to the project directory in terminal and enter `dotnet run`
 4.  Fetching Upstream from CLI
 5.  Generating a random number in C#
 
-- [ ] 06/09/2022
+- :white_check_mark: 06/11/2022
+1.  Adding inmages in git README.md
+2.  Making text bold in git README.md
+3.  Adding link in git README.md
 
 ### Issues Faced:
 
