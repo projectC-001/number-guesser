@@ -41,7 +41,7 @@ namespace numberGuesser{
                 trial++;
             }
 
-            // Printing Win or Lose Message!
+            // Printing Win or Lose Message
             if(guess == answer){
                 Console.WriteLine("");
                 Console.WriteLine("RIGHT GUESS");
