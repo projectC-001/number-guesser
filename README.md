@@ -8,14 +8,28 @@
 
 You will have 10 chances to guess it right.
 
+**Win Message:**
+![Win-Message](win-lose-images/win.png)
+
+**Lose Message:**
+![Lose-Message](win-lose-images/lose.png)
+
 ### Installation & Setup:
- Version: Provide app version/ dotnet version
- [Please provide project setup tools and download links]
 
-### Run:
-`dotnet run`
+The Project runs on and above dotnet version 6.0.202
 
-### What I learned today:
+Type `dotnet --version` in terminal to check if you have dotnet installed and the version number.
+
+If you don't have dotnet installed, you can download it [here](https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=net60).
+
+If you have homebrew installed in mac, use this command to install from terminal:
+brew install --cask dotnet-sdk
+
+### How to Run:
+
+Go to the project directory in terminal and enter `dotnet run`
+
+### What I learned:
 
  - :white_check_mark: 06/07/2022
 1. Creating a fork
@@ -30,17 +44,20 @@ You will have 10 chances to guess it right.
 4.  Fetching Upstream from CLI
 5.  Generating a random number in C#
 
-- [ ] 06/09/2022
+- :white_check_mark: 06/11/2022
+1.  Adding inmages in git README.md
+2.  Making text bold in git README.md
+3.  Adding link in git README.md
 
-### What issues I faced:
+### Issues Faced:
 
 None
 
+
 ### Additional Notes:
+
+1.  Random class was used to make an object and get a random number from 1 to 100.
 
 ### Evaluation:
 - Great job! 
 - Score: 10/10
-- Please provide project setup details and run commands above.
-- Also provide functions/algorithms you implemented under additional notes.
-- Screenshots of 1 loss and 1 win (under How to play section) would be even better.
