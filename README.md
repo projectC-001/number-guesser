@@ -8,10 +8,10 @@
 
 You will have 10 chances to guess it right.
 
-**Win Message:**
+**Win Message:**\
 ![Win-Message](win-lose-images/win.png)
 
-**Lose Message:**
+**Lose Message:**\
 ![Lose-Message](win-lose-images/lose.png)
 
 ### Installation & Setup:
